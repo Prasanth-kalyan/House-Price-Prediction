@@ -1,0 +1,11 @@
+area   price
+0  2104  399900
+1  1600  329900
+2  2400  369000
+3  1416  232000
+area     0
+price    0
+dtype: int64
+Mean Squared Error: 11099676556.469656
+ 
+Predicted price for an area of 1500 sq. ft: $274769.1819404742
